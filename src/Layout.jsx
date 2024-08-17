@@ -1,5 +1,6 @@
 import React from 'react'
 import Header from './components/Header/Header'
+import Header2 from './components/Header/Header2'
 
 import { Outlet } from 'react-router-dom'
 
