@@ -10,6 +10,7 @@ import { Route ,createBrowserRouter, createRoutesFromElements,  RouterProvider }
     
    
 import Home from './components/Home/Home.jsx'
+import Home2 from './components/Home/Home2.jsx'
 
 import Layout from './Layout.jsx'
 
